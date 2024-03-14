@@ -3,7 +3,7 @@
 ## Description
 Create an SVG logo with your choice of a shape (circle, triangle, or square), color and text. 
 
-[Link to Demo]()
+[Link to Demo](https://drive.google.com/file/d/1imJF0vcVMmeyjpU73tcAYmwJku6hlRr_/view?usp=sharing)
 
 ## Table of Content
 [Installation](#installation)  
