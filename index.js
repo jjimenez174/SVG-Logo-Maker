@@ -1,9 +1,7 @@
 // Packages for the application
 const inquirer = require('inquirer');
 const fs = require('fs');
-const { Circle } = require('./lib/circle');
-const { Triangle } = require('./lib/triangle');
-const { Square } = require('./lib/square');
+const { Circle, Triangle, Square } = require('./lib/shapes');
 
 //An array of questions 
  const questions = [

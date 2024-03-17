@@ -3,7 +3,7 @@
 ## Description
 Create an SVG logo with your choice of a shape (circle, triangle, or square), color and text. 
 
-[Link to Demo](https://drive.google.com/file/d/1imJF0vcVMmeyjpU73tcAYmwJku6hlRr_/view?usp=sharing)
+[Link to Demo](https://drive.google.com/file/d/1EAxavOHUpm16oCWjzWXRVB1-xB56-Pir/view?usp=sharing)
 
 ## Table of Content
 [Installation](#installation)  
@@ -32,6 +32,8 @@ At the moment I won't be accepting contributions.
 
 ## Test
 The three shapes are being tested for the render() method. Where it returns a string that matches the color and text of the SVG file. Run <b> npm test</b> in the terminal and all three test will run. 
+
+![image](./image/shapestest.png)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
