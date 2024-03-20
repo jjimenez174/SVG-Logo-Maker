@@ -33,7 +33,7 @@ At the moment I won't be accepting contributions.
 ## Test
 The three shapes are being tested for the render() method. Where it returns a string that matches the color and text of the SVG file. Run <b> npm test</b> in the terminal and all three test will run. 
 
-![image](./image/shapestest.png)
+[Link to Test Demo](https://drive.google.com/file/d/1Zs_TW1uVsCS5AjJEog1LkR2XWIjSrHMT/view?usp=sharing)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
